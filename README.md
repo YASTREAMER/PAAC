@@ -81,3 +81,6 @@ This is the TO DO LIST of the project
 
 -[ ] Train a model on a dimensionality reducted image(VAE)
 
+## __File not mentioned/Not used__ ##
+
+    Galaxy.ipynb is not being worked on currently due to techincal issues.
