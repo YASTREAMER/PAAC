@@ -34,6 +34,20 @@
 ##  __AutoencodersMNSIT.ipynb__ ##
 
     This python files shows the power of autoencoders. They are very useful as they can compress a given input and thus are very useful for dimensionality reduction. This one uses Linear fully connected layers to achieve this on the MNIST dataset.
+
+## __variationalencoders.ipynb__ ##
+
+    This python files shows the usage of variational encoders. They are very useful and thus can be used for dimensionality reduction.
+
+    This file uses Linear fully connected layers to achieve this on the MNIST dataset.
+
+## __variationalencodersCnn.ipynb__ ##
+
+    This python files shows the usage of variational encoders. They are very useful and thus can be used for dimensionality reduction.
+
+    This file uses Conv layer connected layers to achieve this on the CIFAR10 dataset. 
+
+
 ## __What are Autoencoders-- ##
     Autoencoders and variational autoencoders (VAEs) are types of neural network architectures used in unsupervised learning for representation learning and generative modeling.
     Autoencoders:
@@ -61,10 +75,9 @@
 
 This is the TO DO LIST of the project
 
--[X] Run the Advance CNN model 
-
--[X] Add autoencoders and variational encoder 
+-[ ] Use VAE for dimensionality reduction
 
 -[ ]  Try autoencoders on Galaxy dataset
 
--[ ] Use autoencoders to reduce the dimension of the dataset and use them to improve performance
+-[ ] Train a model on a dimensionality reducted image(VAE)
+
