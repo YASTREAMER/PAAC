@@ -81,6 +81,6 @@ This is the TO DO LIST of the project
 
 -[ ] Train a model on a dimensionality reducted image(VAE)
 
-## __File not mentioned/Not used__ ##
+-[ ] Train a disentagled variational autoencoders and see what result we get
 
-    Galaxy.ipynb is not being worked on currently due to techincal issues.
+## __File not mentioned/Not used__ ##
