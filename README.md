@@ -1,5 +1,5 @@
 # PAAC Project
-    Repo for trying out different CNN models.New models will be added soon. The repo uses pytorch as the main framework.
+Repo for trying out different CNN models.New models will be added soon. The repo uses pytorch as the main framework.
 
 # List Of Datasets Used
 
